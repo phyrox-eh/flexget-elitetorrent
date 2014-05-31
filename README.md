@@ -13,11 +13,17 @@ Example of usage:
 
 
 discover:
+
 what:
-- emit_series:
+
+-emit_series:
+
 from_start: yes
+
 from:
-- ET: ok
+
+  -ET: ok
+
 
 This will search your series in elitetorrent. 
 
